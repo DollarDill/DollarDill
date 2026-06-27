@@ -23,13 +23,42 @@ I'm a nerd from **Melbourne** who loves building tools — and I'm a little obse
 
 <div align="center">
 
-![AI Agents](https://img.shields.io/badge/AI_Agents-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-111827?style=for-the-badge&logo=anthropic&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+**Cloud & IaC**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge)
+![AWS CDK](https://img.shields.io/badge/AWS_CDK-FF9900?style=for-the-badge)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![OpenTofu](https://img.shields.io/badge/OpenTofu-FFDA18?style=for-the-badge&logo=opentofu&logoColor=black)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-E7157B?style=for-the-badge)
+
+**DevOps & CI**  
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**AI & Agentic**  
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![LLM APIs](https://img.shields.io/badge/LLM_APIs-111827?style=for-the-badge&logo=anthropic&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-5A67D8?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+
+**Testing**  
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge)
+![TDD](https://img.shields.io/badge/TDD-0E8A16?style=for-the-badge)
+
+**Certifications**  
+![5x AWS Certified](https://img.shields.io/badge/5%C3%97_AWS_Certified-FF9900?style=for-the-badge)
+
+<sub>Security Specialty · DevOps Engineer Professional · SysOps Administrator Associate · Developer Associate · Solutions Architect Associate</sub>
 
 </div>
 
