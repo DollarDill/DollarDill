@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Dillon 👋
+# Hi, I'm Dillon Frawley 👋
 
-### a.k.a. `@DollarDill`
+#### Systems Development Engineer @ AWS · `@DollarDill` · Melbourne 🦘
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0891B2&center=true&vCenter=true&width=780&lines=Nerd+who+builds+tools+for+the+love+of+it;Constraining+AI+agents+so+they+actually+behave;Turning+confident+garbage+into+reliable+work;Probably+refactoring+something+right+now)](https://github.com/DollarDill)
 
@@ -39,6 +39,7 @@ I'm a nerd from **Melbourne** who loves building tools — and I'm a little obse
 ## 🚀 Current Focus
 
 ```text
+Working as     Systems Development Engineer @ AWS
 Building       beads-superpowers — process discipline + persistent memory for AI coding agents
 Tinkering      Discord bots, dev tooling, and automation that mostly manages itself
 Obsessed with  making AI agents reliable, reproducible, and honest
@@ -101,6 +102,7 @@ On the web     dillonfrawley.com
 
 [![Website](https://img.shields.io/badge/dillonfrawley.com-0891B2?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://dillonfrawley.com)
 [![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DollarDill)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/dollardill)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,55:0891B2,100:111827&height=120&section=footer&animation=twinkling" alt="footer wave" />
 
