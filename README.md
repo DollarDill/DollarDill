@@ -6,7 +6,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0891B2&center=true&vCenter=true&width=780&lines=Nerd+who+builds+tools+for+the+love+of+it;Constraining+AI+agents+so+they+actually+behave;Turning+confident+garbage+into+reliable+work;Probably+refactoring+something+right+now)](https://github.com/DollarDill)
 
-[![Profile views](https://komarev.com/ghpvc/?username=DollarDill&style=for-the-badge&color=0891b2&labelColor=111827)](https://github.com/DollarDill)
 [![GitHub followers](https://img.shields.io/github/followers/DollarDill?logo=github&style=for-the-badge&color=7c3aed&labelColor=111827)](https://github.com/DollarDill?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/DollarDill?style=for-the-badge&logo=github&color=0891b2&labelColor=111827)](https://github.com/DollarDill)
 
@@ -70,7 +69,7 @@ On the web     dillonfrawley.com
         <a href="https://github.com/DollarDill/discord-ecosystem">
           <img src="https://img.shields.io/badge/View_repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="View repository" />
         </a>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/github/stars/DollarDill/discord-ecosystem?style=for-the-badge&logo=github&color=7c3aed&labelColor=111827" alt="Stars" />
       </p>
     </td>
   </tr>
