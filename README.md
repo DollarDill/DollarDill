@@ -83,7 +83,7 @@ On the web     dillonfrawley.com
   <tr>
     <td valign="top">
       <p><strong>🐍 Snake — playable on <a href="https://dillonfrawley.com">dillonfrawley.com</a></strong></p>
-      <p>A Snake game that lives inside the terminal-style frame on my site (it replaced an in-browser Linux VM). Live score tracking and one-tap score sharing are already in; an AI opponent, a time-attack mode, and a shared leaderboard (Cloudflare Workers KV) are being built right now.</p>
+      <p>A Snake game embedded in the terminal-style frame on my site. Live score tracking and one-tap score sharing are already in; an AI opponent, time-attack mode, and a shared leaderboard (Cloudflare Workers KV) are being built right now.</p>
       <p>
         <a href="https://dillonfrawley.com">
           <img src="https://img.shields.io/badge/%E2%96%B6_Play_now-ff5555?style=for-the-badge" alt="Play now" />
