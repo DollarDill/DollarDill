@@ -15,7 +15,7 @@
 
 ### 🧠 The short version
 
-I'm a nerd from **Melbourne** who loves building tools - and I'm a little obsessed with **constraining AI agents so they produce reliable work instead of confident garbage**. If something can be automated, version-controlled, or turned into a tidy little system, I'm probably tinkering with it at 1am.
+I'm a techie from **Melbourne** who loves building tools - and I'm obsessed with **constraining AI agents so they produce reliable work instead of confident garbage**. If something can be automated, version-controlled, or turned into a tidy little system, I'm probably tinkering with it at 1am.
 
 ---
 
@@ -69,7 +69,7 @@ I'm a nerd from **Melbourne** who loves building tools - and I'm a little obsess
 ```text
 Working as     Systems Development Engineer @ AWS
 Building       beads-superpowers - process discipline + persistent memory for AI coding agents
-Tinkering      Discord bots, dev tooling, and automation that mostly manages itself
+Tinkering      scripts, dev tooling, and automation that mostly manages itself
 Obsessed with  making AI agents reliable, reproducible, and honest
 Based in       Melbourne, Australia 🦘
 On the web     dillonfrawley.com
@@ -98,24 +98,14 @@ On the web     dillonfrawley.com
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <p><strong>🧰 beads-superpowers</strong></p>
-      <p>22 process-discipline skills + persistent task memory that keep AI coding agents honest - verified on Claude Code, Codex, and OpenCode.</p>
+      <p>Superpowers & Beads task memory for AI coding agents - supports Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, Kimi Code, Antigravity, Factory Droid, and Pi.</p>
       <p>
         <a href="https://github.com/DollarDill/beads-superpowers">
           <img src="https://img.shields.io/badge/View_repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="View repository" />
         </a>
         <img src="https://img.shields.io/github/stars/DollarDill/beads-superpowers?style=for-the-badge&logo=github&color=7c3aed&labelColor=111827" alt="Stars" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>🤖 discord-ecosystem</strong></p>
-      <p>End-to-end Discord bot platform - application code, server configuration, and cloud infrastructure, all managed as code.</p>
-      <p>
-        <a href="https://github.com/DollarDill/discord-ecosystem">
-          <img src="https://img.shields.io/badge/View_repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="View repository" />
-        </a>
-        <img src="https://img.shields.io/github/stars/DollarDill/discord-ecosystem?style=for-the-badge&logo=github&color=7c3aed&labelColor=111827" alt="Stars" />
       </p>
     </td>
   </tr>
