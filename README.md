@@ -4,7 +4,7 @@
 
 #### Systems Development Engineer @ AWS · `@DollarDill` · Melbourne 🦘
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0891B2&center=true&vCenter=true&width=780&lines=Nerd+who+builds+tools+for+the+love+of+it;Constraining+AI+agents+so+they+actually+behave;Turning+confident+garbage+into+reliable+work;Probably+refactoring+something+right+now)](https://github.com/DollarDill)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0891B2&center=true&vCenter=true&width=780&lines=Engineer+who+builds+tools+for+the+love+of+it;Constraining+AI+agents+so+they+actually+behave;Turning+confident+garbage+into+reliable+work;Probably+refactoring+something+right+now)](https://github.com/DollarDill)
 
 [![GitHub followers](https://img.shields.io/github/followers/DollarDill?logo=github&style=for-the-badge&color=7c3aed&labelColor=111827)](https://github.com/DollarDill?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/DollarDill?style=for-the-badge&logo=github&color=0891b2&labelColor=111827)](https://github.com/DollarDill)
