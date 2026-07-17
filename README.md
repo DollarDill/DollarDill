@@ -15,7 +15,8 @@
 
 ### 🧠 The short version
 
-I'm a techie from **Melbourne** who loves building tools - and I'm obsessed with **constraining AI agents so they produce reliable work instead of confident garbage**. If something can be automated, version-controlled, or turned into a tidy little system, I'm probably tinkering with it at 1am.
+I'm a software engineer from **Melbourne, Australia**  who loves building tools and AI workflows. All my projects and contributions are worked on in my spare time. If you like any of my work, always love to yap about it. 
+Contact me: **dillon@algocents.com**
 
 ---
 
@@ -64,37 +65,7 @@ I'm a techie from **Melbourne** who loves building tools - and I'm obsessed with
 
 ---
 
-## 🚀 Current Focus
-
-```text
-Working as     Systems Development Engineer @ AWS
-Building       beads-superpowers - process discipline + persistent memory for AI coding agents
-Tinkering      scripts, dev tooling, and automation that mostly manages itself
-Obsessed with  making AI agents reliable, reproducible, and honest
-Based in       Melbourne, Australia 🦘
-On the web     dillonfrawley.com
-```
-
----
-
 ## 📦 Stuff I've Built
-
-<table>
-  <tr>
-    <td valign="top">
-      <p><strong>🐍 Snake - playable on <a href="https://dillonfrawley.com">dillonfrawley.com</a></strong></p>
-      <p>A single-player Snake game with an AI opponent, a shared leaderboard, and score sharing.</p>
-      <p>
-        <a href="https://dillonfrawley.com">
-          <img src="https://img.shields.io/badge/%E2%96%B6_Play_now-ff5555?style=for-the-badge" alt="Play now" />
-        </a>
-        <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Cloudflare_KV-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare KV" />
-      </p>
-    </td>
-  </tr>
-</table>
 
 <table>
   <tr>
@@ -109,6 +80,24 @@ On the web     dillonfrawley.com
       </p>
     </td>
   </tr>
+  <tr>
+    <td valign="top">
+      <p><strong>🐍 Snake - playable on <a href="https://dillonfrawley.com">dillonfrawley.com</a></strong></p>
+      <p>A single-player Snake game with an AI opponent and a little Hero page.</p>
+      <p>
+        <a href="https://dillonfrawley.com">
+          <img src="https://img.shields.io/badge/%E2%96%B6_Play_now-ff5555?style=for-the-badge" alt="Play now" />
+        </a>
+        <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Cloudflare_KV-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare KV" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  
 </table>
 
 ---
